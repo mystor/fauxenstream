@@ -1,0 +1,8 @@
+[package]
+name = "fauxenstream"
+version = "0.1.0"
+authors = ["Michael Layzell <michael@thelayzells.com>"]
+
+[dependencies]
+unicode-xid = "0.0.4"
+memchr = "1.0"
